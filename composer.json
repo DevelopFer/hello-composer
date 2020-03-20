@@ -9,6 +9,7 @@
             "email": "aferogobs@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "developfer\\HelloWorld\\": "src/"
